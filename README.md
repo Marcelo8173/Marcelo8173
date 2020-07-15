@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, welcome to my repository
 
-<!--
-**Marcelo8173/Marcelo8173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="http://www.linkedin.com/in/marceloasn28">
+  <img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" width="25" />
+</a>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align-items="center">
+<p>My name is Marcelo André and i'm a front-end developer <img src="https://image.flaticon.com/icons/svg/919/919828.svg" width="20" /></P>
+</div>
+
+- I love javaScript and typeScript.<br/>
+- I love React too.<br/>
+- I'm a node enthusiast for the backend.
+<br/><br/><br/>
+<p>Stay free to look at the repository and any questions I am available<p/>
