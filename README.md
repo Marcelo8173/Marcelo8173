@@ -11,7 +11,7 @@
 </div>
 
 - I love javaScript and typeScript.<br/>
-- I love React too.<br/>
-- I'm a node enthusiast for the backend and I'm a php student.
+- I love React and React-native too.<br/>
+- I'm a node enthusiast for the backend and I'm a php and kotlin student.
 <br/><br/><br/>
 <p>Stay free to look at the repository and any questions I am available<p/>
