@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to my repository
+### Hi there 👋
 
 
 <a href="http://www.linkedin.com/in/marceloasn28">
