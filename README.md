@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-<br/>
-
 <div>
 <h4>Desenvolvedor web apaixonado por tecnologia e focado no desenvolvimento Front-end</h4>
 </div>
