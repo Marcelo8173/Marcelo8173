@@ -6,10 +6,25 @@
 </a>
 <br/>
 
-<div align-items="center">
-<p>My name is Marcelo André and i'm a front-end developer <img src="https://image.flaticon.com/icons/svg/919/919828.svg" width="20" /></P>
+<div>
+<p>Desenvolvedor web apaixonado por tecnologia e focado no desenvolvimento Front-end</P>
 </div>
 
-- I love javaScript and typeScript.<br/>
-- I love React and React-native too.<br/>
-- I'm a node enthusiast for the backend and I'm a php and kotlin student.
+<div >
+  <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="25"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png" width="25" />
+  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="20" />
+  <img align="right" width="400" src="https://eadgamedev.app/content/master/melhores-tecnologias.svg" />
+</div>
+
+</br>
+</br>
+
+- Sempre aprendendo.
+- Apaixonado por JavaScript e TypeScript.
+- Experiência em ReactJS.
+- Dobrinha React e NodeJS.
+- Aprendendo Angula.
+- Arranhando java spring
+
+
