@@ -10,8 +10,6 @@
   <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="20" />
   <img align="right" width="450" src="https://eadgamedev.app/content/master/melhores-tecnologias.svg" />
 </div>
-
-</br>
 </br>
 
 - Sempre aprendendo.
