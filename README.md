@@ -15,9 +15,8 @@
 - Sempre aprendendo.
 - Apaixonado por JavaScript e TypeScript.
 - Experiência em ReactJS.
-- Dobrinha React e NodeJS.
-- Aprendendo Angula.
-- Arranhando java spring.
+- Dobradinha React e NodeJS.
+- java spring.
 
 </br>
 
