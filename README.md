@@ -12,8 +12,6 @@
 </div>
 </br>
 
-https://github.com/Marcelo8173/HTML-CSS-e-JavaScript/blob/master/19199360.jpg
-
 - Sempre aprendendo.
 - Apaixonado por JavaScript e TypeScript.
 - Experiência em ReactJS.
