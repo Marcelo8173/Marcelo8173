@@ -8,9 +8,11 @@
   <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="25"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png" width="25" />
   <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="20" />
-  <img align="right" width="450" src="https://eadgamedev.app/content/master/melhores-tecnologias.svg" />
+  <img align="right" width="450" src="https://raphaelcarlosr.com/assets/undraw_coding_6mjf.svg" />
 </div>
 </br>
+
+https://github.com/Marcelo8173/HTML-CSS-e-JavaScript/blob/master/19199360.jpg
 
 - Sempre aprendendo.
 - Apaixonado por JavaScript e TypeScript.
