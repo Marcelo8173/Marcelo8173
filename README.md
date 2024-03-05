@@ -20,11 +20,11 @@
 
 </br>
 
-Contato: (92) 98171-8678
+Contato: (11) 99388-3595
 </br>
-E-mail: marcelo.ansn@gmail.com
+E-mail: marceloandrebio@gmail.com
 </br>
 Linkedin 
 <a href="http://www.linkedin.com/in/marceloasn28">
-  <img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" width="22" />
+  <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" width="22" />
 </a>
