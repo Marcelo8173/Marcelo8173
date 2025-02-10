@@ -1,30 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Marcelo! 👋
 
-<div>
-<h4>Desenvolvedor web apaixonado por tecnologia</h4>
-</div>
+### About Me
+I am a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. I enjoy building innovative solutions that make a difference.
 
-<!-- <div >
-  <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="25"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png" width="25" />
-  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="20" />
-  <img align="right" width="450" src="https://raphaelcarlosr.com/assets/undraw_coding_6mjf.svg" />
-</div> -->
-</br>
+- 🌱 I’m currently learning about Spring and java with focus in microservices.
+- 👯 I’m looking to collaborate on open-source projects related to web development and cloud computing.
+- 📫 How to reach me: [email](mailto:marceloandrebio@gmail.com)
 
-- Sempre aprendendo.
-- Apaixonado por JavaScript e TypeScript.
-- Experiência em ReactJS.
-- Dobradinha React e NodeJS.
-- java spring.
+### GitHub Stats
+![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo8173&show_icons=true&theme=radical)
 
-</br>
+### Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-Contato: (11) 99388-2395
-</br>
-E-mail: marceloandrebio@gmail.com
-</br>
-Linkedin 
-<a href="http://www.linkedin.com/in/marceloasn28">
-  <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" width="22" />
-</a>
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marceloasn28/)
