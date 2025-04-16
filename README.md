@@ -7,9 +7,6 @@ I am a passionate software developer with a keen interest in web development, op
 - 👯 I’m looking to collaborate on open-source projects related to web development and cloud computing.
 - 📫 How to reach me: [email](mailto:marceloandrebio@gmail.com)
 
-### GitHub Stats
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo8173&show_icons=true&theme=radical)
-
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
